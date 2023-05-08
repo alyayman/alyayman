@@ -15,6 +15,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Broadcast Join in S](https://medium.com/@alycentra/broadcast-join-in-s-2d5e332fb25?source=rss-390e8732e5ef------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
