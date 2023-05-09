@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Data Engineering**
 
-- 📝 I regularly write articles on [(https://medium.com/@alycentra)](medium)
+- 📝 I regularly write articles on [(medium)]((https://medium.com/@alycentra))
 
 - 💬 Ask me about **spark,data engineering**
 
