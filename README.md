@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Data Engineering**
 
-- 📝 I regularly write articles on [https://www.linkedin.com/in/aly-ayman-41387a127/](https://www.linkedin.com/in/aly-ayman-41387a127/)
+- 📝 I regularly write articles on [(https://medium.com/@alycentra)](medium)
 
 - 💬 Ask me about **spark,data engineering**
 
