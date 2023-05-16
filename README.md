@@ -15,6 +15,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [How does  manage  ’  ?](https://medium.com/@alycentra/how-does-manage-1f2182b7fbf7?source=rss-390e8732e5ef------2)
 - [Broadcast Join in S](https://medium.com/@alycentra/broadcast-join-in-s-2d5e332fb25?source=rss-390e8732e5ef------2)
 <!-- BLOG-POST-LIST:END -->
 
